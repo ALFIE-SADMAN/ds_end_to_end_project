@@ -287,6 +287,4 @@ This project uses the **GPL‑3.0** license. If you plan to embed this code in a
 
 ---
 
-### A note on accuracy of this README
 
-I drafted this README from the repository structure and the standard e2e DS template. If any file names/paths differ on your branch or if components are named differently, update the examples above to match your code. I’m happy to align this README precisely to the current code methods/classes once those files are accessible here (e.g., list of component class names, function signatures, exact params).
