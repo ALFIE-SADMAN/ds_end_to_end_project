@@ -1,4 +1,4 @@
-# End‑to‑End Data Science Project — Extended README
+# End‑to‑End Data Science Project (wine quality)— Extended README
 
 > Repository: `ALFIE-SADMAN/ds_end_to_end_project`
 
@@ -286,5 +286,6 @@ This project uses the **GPL‑3.0** license. If you plan to embed this code in a
 * Replace `ds_expirament/` with a clean `experiments/` folder name
 
 ---
+
 
 
